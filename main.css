@@ -20,3 +20,7 @@ a:hover {
 h3 {
 	color: #f9007a;
 }
+
+hr {
+	border-top: 1.5px solid #278e6f;
+}
