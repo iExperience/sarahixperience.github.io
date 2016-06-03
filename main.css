@@ -24,3 +24,8 @@ h3 {
 hr {
 	border-top: 1.5px solid #278e6f;
 }
+
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
