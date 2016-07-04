@@ -29,3 +29,11 @@ hr {
     float: none;
     margin: 0 auto;
 }
+
+.easteregg {
+	text-align: center;
+}
+.egg {
+	height:250px;
+	padding-bottom: 50px;
+}
